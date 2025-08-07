@@ -11,7 +11,7 @@ npm install
 npm start
 The app will be available at http://localhost:3000.
 It supports hot-reloading, so changes will reflect automatically during development.
-
+```
 📦 Available Scripts
 In the project directory, you can use the following commands:
 
