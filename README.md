@@ -12,7 +12,7 @@ npm start
 The app will be available at http://localhost:3000.
 It supports hot-reloading, so changes will reflect automatically during development.
 ```
-📦 Available Scripts
+## Available Scripts
 In the project directory, you can use the following commands:
 
 npm start
@@ -29,7 +29,8 @@ npm run eject
 Warning: irreversible.
 Copies all configuration files (webpack, Babel, ESLint, etc.) into your project, giving you full control over build settings.
 
-🧠 Learn More
+## Learn More
+```
 React Documentation
 
 Create React App Docs
@@ -41,8 +42,10 @@ Code Splitting
 Analyzing Bundle Size
 
 Making a Progressive Web App
+```
 
-🛠 Technologies Used
+## Technologies Used
+```
 React
 
 Material UI
@@ -52,11 +55,10 @@ Google Maps API / Leaflet (if applicable)
 CSS Modules / Styled Components (custom styling method)
 
 REST APIs (for fetching places)
+```
 
-📁 Project Structure
-java
-Copy
-Edit
+## Project Structure
+```
 mytravelpal/
 ├── public/
 ├── src/
@@ -66,7 +68,10 @@ mytravelpal/
 │   └── App.js
 ├── package.json
 └── README.md
-✍️ Author
+```
+## Author
+```
 Created by Mohamad Halal
 
 Feel free to contribute, open issues, or suggest improvements!
+```
