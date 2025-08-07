@@ -1,6 +1,6 @@
 # MyTravelPal 🌍✈️
 
-MyTravelPal is a modern React web application that helps users explore destinations, view them on an interactive map, and find tailored travel information. Check the [Live Demo](https://tourmaline-kulfi-9292e3.netlify.app/), to see the app in action!
+MyTravelPal is a modern React web application that helps users explore destinations, view them on an interactive map, and find tailored travel information. Check the [Live Demo](https://mytravelpalre.netlify.app/), to see the app in action!
 
 ## 🚀 Getting Started
 
